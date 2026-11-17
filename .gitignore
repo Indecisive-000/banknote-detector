@@ -1,0 +1,4 @@
+# images are not included in the repository
+dataset/
+*.h5
+__pycache__/
